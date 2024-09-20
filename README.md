@@ -1,12 +1,12 @@
 # Music Player App
 
-A simple music player
 
-##Overview
+
+## Overview
 
 The Music Player App is a simple web application built using HTML, CSS, and JavaScript that allows users to play, pause, and skip through a collection of songs. The app features a clean and responsive design, making it easy to use on both desktop and mobile devices.
 
-##Features
+## Features
 
 Play and pause music
 Skip to the next or previous track
