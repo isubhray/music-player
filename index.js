@@ -47,7 +47,7 @@ const songs = [
     {
         path: 'assets/Husn.mp3',
         displayName: 'Husn',
-        cover: 'assets/Husn.jpg',
+        cover: 'assets/husn.jpg',
         artist: 'Anuv Jain',
     }
 ];
